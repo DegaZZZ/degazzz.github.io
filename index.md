@@ -1,14 +1,14 @@
 # Portfolio
 ---
 
-## Deep Learning
+## Data Analysis
 
-### adgadgadg
+### Exoplanet Data Analysis
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]
+![Open in browser](https://img.shields.io/badge/HTML-Open%20in%20browser-blue)
 
 <div style="text-align: justify">
-gggaga
+This project explores the properties and distribution of exoplanet candidates using the Kepler Object of Interest (KOI) dataset. Analyzing the class distribution, orbital periods, magnitude distribution, correlation matrix, right ascension and declination, and KOI scores, valuable insights are gained. The findings reveal the prevalence of shorter orbital periods for confirmed planets, a bi-modal magnitude distribution, variations in stellar density based on celestial coordinates, and confidence levels of planet candidates.
 <br> <br>
 asfasfasfas
 </div>
