@@ -9,6 +9,7 @@
 
 <div style="text-align: justify">
 This project explores the properties and distribution of exoplanet candidates using the Kepler Object of Interest (KOI) dataset. Analyzing the class distribution, orbital periods, magnitude distribution, correlation matrix, right ascension and declination, and KOI scores, valuable insights are gained. The findings reveal the prevalence of shorter orbital periods for confirmed planets, a bi-modal magnitude distribution, variations in stellar density based on celestial coordinates, and confidence levels of planet candidates.
+</div>
 <br>
 <center><img src="https://i.imgur.com/gPt16B5.png" width="420"/></center>
 <br>
