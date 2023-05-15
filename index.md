@@ -17,7 +17,7 @@ This project explores the properties and distribution of exoplanet candidates us
 ---
 ## Machine Learning
 
-### sdgsdgsd
+### Dota 2 Match Outcome Prediction using CatBoost
 
 [![View on GitHub](https://img.shields.io/badge/HTML-Open%20in%20browser-blue)](https://degazzz.github.io/projects/Dota2CatBoost.html)
 
