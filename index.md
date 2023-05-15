@@ -19,7 +19,7 @@ This project explores the properties and distribution of exoplanet candidates us
 
 ### sdgsdgsd
 
-[![View on GitHub](https://img.shields.io/badge/HTML-Open%20in%20browser-blue)]()
+[![View on GitHub](https://img.shields.io/badge/HTML-Open%20in%20browser-blue)](https://degazzz.github.io/projects/Dota2CatBoost.html)
 
 <div style="text-align: justify">
 In this project, I developed a CatBoost Classifier model to predict outcomes of Dota 2 matches, a complex task due to the game's dynamic environment. Despite these challenges, my model showcased strong performance, achieving an AUC-ROC score of 0.80±0.0053, indicating its ability to accurately differentiate between wins and losses. This project highlights my capability to apply advanced machine learning techniques to real-world scenarios, providing reliable predictive insights.
