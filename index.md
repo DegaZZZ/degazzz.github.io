@@ -14,6 +14,20 @@ This project explores the properties and distribution of exoplanet candidates us
 <center><img src="https://i.imgur.com/gPt16B5.png" width="420"/></center>
 <br>
 
+### Musical Instrument(s) Review Analysis
+
+<a target="_blank" href="https://colab.research.google.com/github/DegaZZZ/degazzz.github.io/blob/main/projects/AmazonMusicReviews.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
+<div style="text-align: justify">
+This project demonstrates the ability to perform data analysis on customer reviews. It showcases skills in data preprocessing, natural language processing (NLP), and data visualization using Python libraries such as pandas, spaCy, and Plotly. The project focuses on extracting valuable insights from text data, including the top 20 most used words and adjectives in the reviews. It highlights skills in NLP techniques, data manipulation, and generating visualizations to gain a deeper understanding of customer sentiments and provide actionable insights for businesses.
+</div>
+<br>
+<center><img src="https://i.imgur.com/rFIqG2O.png" width="420"/></center>
+<br>
+
 ---
 ## Machine Learning
 
