@@ -3,6 +3,19 @@
 
 ## Data Analysis
 
+### Osuuspankki Project
+
+[![Static Badge](https://img.shields.io/badge/Open_on_GitHub-teal?logo=github)](https://github.com/DegaZZZ/op_project_map) <br>
+[![Static Badge](https://img.shields.io/badge/Open_Web_Demo-%233F4F75?logo=Plotly)](https://opmap-ff2c08ccb99b.herokuapp.com)
+
+
+<div style="text-align: justify">
+A WIP project for on-going Data Science Project in Aalto University for a task right from OP representatives. Nothing much to add for obvious reasons (yet). A demo map built on Plotly Dash is currently available via a URL on GitHub page. 
+</div>
+<br>
+<center><img src="https://i.imgur.com/JfEk1UU.png" width="420"/></center>
+<br>
+
 ### Exoplanet Data Analysis
 
 [![Open in browser](https://img.shields.io/badge/HTML-Open%20in%20browser-blue)](https://degazzz.github.io/projects/SpaceKeplerPortfolio.html)
