@@ -10,7 +10,7 @@
 
 
 <div style="text-align: justify">
-A WIP project for on-going Data Science Project in Aalto University for a task right from OP representatives. Nothing much to add for obvious reasons (yet). A demo map built on Plotly Dash is currently available via a URL on GitHub page. 
+A WIP Data Science Project made in Aalto University for a task right from OP representatives. Most of the Data Engineering in this project was done by me. Dash and FastAPI are wrapped into a single Asynchronous Server Gateway Interface (AGSI) which is hosted on Heroku using Uvicorn as a server. PostgreSQL database is used for storing all the table datasets that were used during the development of the project and analytics. Connections to the database can be made via an API. API also contains some very useful methods Documentation for the API exists, but currently is not available (soon will be added). A demo map is available via a URL on GitHub page or by clicking a badge above. 
 </div>
 <br>
 <center><img src="https://i.imgur.com/JfEk1UU.png" width="420"/></center>
