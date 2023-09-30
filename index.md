@@ -1,5 +1,20 @@
 # Portfolio
 ---
+## Software Development
+
+### Data Guild GPT Telegram Bot
+
+[![Static Badge](https://img.shields.io/badge/Open_in_Telegram-blue?logo=telegram)](https://t.me/dg_amabot)
+
+<div style="text-align: justify">
+Developed a whole Telegram bot for Aalto University's Data Guild internal chats written on <b>Python</b> using. Bot uses <b>API of GPT-3.5 and GPT-4 models</b> for various useful (and sometimes fun) features, as well <b>Stable Diffusion API</b> for Image Geneneration on a given prompt. Bot is hosted on Heroku. Some but not all of the features are - poll generation on a given prompt, image generation, making graphs on a given topic, answering any questions. In publicly available version of the bot messages are not collected and are not stored anywhere due to Code of Conduct and GDPR. However, internal test local version make usage of <b>Redis</b> for caching and preserving some sort of consistence in the dialog.
+</div>
+<br>
+<center><img src="https://i.imgur.com/VrslndZ.png" width="420"/></center>
+
+
+
+---
 
 ## Data Analysis
 
