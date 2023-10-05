@@ -1,20 +1,5 @@
 # Portfolio
 ---
-## Software Development
-
-### Data Guild GPT Telegram Bot
-
-[![Static Badge](https://img.shields.io/badge/Open_in_Telegram-blue?logo=telegram)](https://t.me/dg_amabot)
-
-<div style="text-align: justify">
-Developed a whole Telegram bot for Aalto University's Data Guild internal chats written on <b>Python</b> using. Bot uses <b>API of GPT-3.5 and GPT-4 models</b> for various useful (and sometimes fun) features, as well <b>Stable Diffusion API</b> for Image Geneneration on a given prompt. Bot is hosted on Heroku. Some but not all of the features are - poll generation on a given prompt, image generation, making graphs on a given topic, answering any questions. In publicly available version of the bot messages are not collected and are not stored anywhere due to Code of Conduct and GDPR. However, internal test local version make usage of <b>Redis</b> for caching and preserving some sort of consistence in the dialog.
-</div>
-<br>
-<center><img src="https://i.imgur.com/VrslndZ.png" width="420"/></center>
-
-
-
----
 
 ## Data Analysis
 
@@ -25,7 +10,7 @@ Developed a whole Telegram bot for Aalto University's Data Guild internal chats 
 
 
 <div style="text-align: justify">
-A WIP Data Science Project made in Aalto University for a task right from OP representatives. Most of the Data Engineering in this project was done by me. Dash and FastAPI are wrapped into a single Asynchronous Server Gateway Interface (AGSI) which is hosted on Heroku using Uvicorn as a server. PostgreSQL database is used for storing all the table datasets that were used during the development of the project and analytics. Connections to the database can be made via an API. The latter also contains some very useful methods. Documentation for the API exists, but currently is not available (soon will be added). A demo map is available via a URL on GitHub page or by clicking a badge above. 
+A WIP Data Science Project made in Aalto University for a task right from OP representatives. Most of the Data Engineering in this project was done by me. <b>Dash</b> and <b>FastAPI</b> are wrapped into a single <b>Asynchronous Server Gateway Interface (AGSI)</b> which is hosted on Heroku using Uvicorn as a server. <b>BigQuery</b> is used for storing all the table datasets that were used during the development of the project and analytics. Connections to the database can be made via an API. The latter also contains some very useful methods. Documentation for the API exists, but currently is not available (soon will be added). A demo map is available via a URL on GitHub page or by clicking a badge above. 
 </div>
 <br>
 <center><img src="https://i.imgur.com/JfEk1UU.png" width="420"/></center>
@@ -69,3 +54,17 @@ In this project, I developed a CatBoost Classifier model to predict outcomes of 
 <br>
 <center><img src="https://i.imgur.com/uErCCR0.png" height="420"/></center>
 <br>
+
+---
+## Software Development
+
+### Data Guild GPT Telegram Bot
+
+[![Static Badge](https://img.shields.io/badge/Open_in_Telegram-blue?logo=telegram)](https://t.me/dg_amabot)
+
+<div style="text-align: justify">
+Developed a whole Telegram bot for Aalto University's Data Guild internal chats written on <b>Python</b> using. Bot uses <b>API of GPT-3.5 and GPT-4 models</b> for various useful (and sometimes fun) features, as well <b>Stable Diffusion API</b> for Image Geneneration on a given prompt. Bot is hosted on Heroku. Some but not all of the features are - poll generation on a given prompt, image generation, making graphs on a given topic, answering any questions. In publicly available version of the bot messages are not collected and are not stored anywhere due to Code of Conduct and GDPR. However, internal test local version make usage of <b>Redis</b> for caching and preserving some sort of consistence in the dialog.
+</div>
+<br>
+<center><img src="https://i.imgur.com/VrslndZ.png" width="420"/></center>
+
