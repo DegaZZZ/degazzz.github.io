@@ -3,7 +3,7 @@
 
 ## Data Analysis
 
-### Osuuspankki Project
+### Osuuspankki GSI Dashboard Project
 
 [![Static Badge](https://img.shields.io/badge/Open_on_GitHub-teal?logo=github)](https://github.com/DegaZZZ/op_project_map) <br>
 [![Static Badge](https://img.shields.io/badge/Open_Web_Demo-%233F4F75?logo=Plotly)](https://opmap-ff2c08ccb99b.herokuapp.com)
