@@ -3,14 +3,14 @@
 
 ## Data Analysis
 
-### Osuuspankki GSI Dashboard Project
+### Osuuspankki GIS Dashboard Project
 
 [![Static Badge](https://img.shields.io/badge/Open_on_GitHub-teal?logo=github)](https://github.com/DegaZZZ/op_project_map) <br>
 [![Static Badge](https://img.shields.io/badge/Open_Web_Demo-%233F4F75?logo=Plotly)](https://opmap-ff2c08ccb99b.herokuapp.com)
 
 
 <div style="text-align: justify">
-A Data Science Project made in Aalto University for a task right from OP representatives. Most of the Data Engineering in this project was done by me. <b>Dash</b> and <b>FastAPI</b> are wrapped into a single <b>Asynchronous Server Gateway Interface (AGSI)</b> which is hosted on Heroku using Uvicorn as a server. <b>BigQuery</b> is used for storing all the table datasets that were used during the development of the project and analytics. Connections to the database can be made via an API. The latter also contains some very useful methods. Documentation for the API exists, but currently is not available (soon will be added). Active usage of latest and most powerful **GSI** techonologies. A demo map is available via a URL on GitHub page or by clicking a badge above. 
+A Data Science Project made in Aalto University for a task right from OP representatives. Most of the Data Engineering in this project was done by me. <b>Dash</b> and <b>FastAPI</b> are wrapped into a single <b>Asynchronous Server Gateway Interface (AGSI)</b> which is hosted on Heroku using Uvicorn as a server. <b>BigQuery</b> is used for storing all the table datasets that were used during the development of the project and analytics. Connections to the database can be made via an API. The latter also contains some very useful methods. Documentation for the API exists, but currently is not available (soon will be added). Active usage of latest and most powerful <b>GIS</b> techonologies. A demo map is available via a URL on GitHub page or by clicking a badge above. 
 </div>
 <br>
 <center><img src="https://i.imgur.com/JfEk1UU.png" width="420"/></center>
