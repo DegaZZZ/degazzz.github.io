@@ -10,7 +10,7 @@
 
 
 <div style="text-align: justify">
-A WIP Data Science Project made in Aalto University for a task right from OP representatives. Most of the Data Engineering in this project was done by me. <b>Dash</b> and <b>FastAPI</b> are wrapped into a single <b>Asynchronous Server Gateway Interface (AGSI)</b> which is hosted on Heroku using Uvicorn as a server. <b>BigQuery</b> is used for storing all the table datasets that were used during the development of the project and analytics. Connections to the database can be made via an API. The latter also contains some very useful methods. Documentation for the API exists, but currently is not available (soon will be added). A demo map is available via a URL on GitHub page or by clicking a badge above. 
+A Data Science Project made in Aalto University for a task right from OP representatives. Most of the Data Engineering in this project was done by me. <b>Dash</b> and <b>FastAPI</b> are wrapped into a single <b>Asynchronous Server Gateway Interface (AGSI)</b> which is hosted on Heroku using Uvicorn as a server. <b>BigQuery</b> is used for storing all the table datasets that were used during the development of the project and analytics. Connections to the database can be made via an API. The latter also contains some very useful methods. Documentation for the API exists, but currently is not available (soon will be added). Active usage of latest and most powerful **GSI** techonologies. A demo map is available via a URL on GitHub page or by clicking a badge above. 
 </div>
 <br>
 <center><img src="https://i.imgur.com/JfEk1UU.png" width="420"/></center>
