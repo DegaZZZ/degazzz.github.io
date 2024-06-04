@@ -41,6 +41,17 @@ This project demonstrates the ability to perform data analysis on customer revie
 <center><img src="https://i.imgur.com/rFIqG2O.png" width="420"/></center>
 <br>
 
+
+### Dota 2 Facets Rankings using Wilson Score
+
+[![Static Badge](https://img.shields.io/badge/Read_on_Reddit-FF4500?logo=reddit&logoColor=white&link=https%3A%2F%2Fwww.reddit.com%2Fr%2FDotA2%2Fcomments%2F1d430ys%2Ftop_20_facets_by_rank_per_role_8k_mmr_30_matches%2F)](https://www.reddit.com/r/DotA2/comments/1d430ys/top_20_facets_by_rank_per_role_8k_mmr_30_matches/)
+
+Innovative implementation of Wilson score for analysis of Dota 2 in-game data. Report was highly supported by the community and used by multiple professional eSports teams. Calculations were done with <b>Pandas</b> with visualisations made via <b>Datawrapper</b>
+
+<br>
+<center><img src="https://imgur.com/OTVSB3l.png" width="420"/></center>
+<br>
+
 ---
 ## Machine Learning
 
