@@ -1,6 +1,6 @@
 # Portfolio
 ---
-## eSports
+## eSports and Game Analytics
 
 ### Dota 2 Tundra Esports
 
