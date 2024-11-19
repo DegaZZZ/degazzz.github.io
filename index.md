@@ -19,7 +19,7 @@ You can also read the interview I gave in Copenhagen here - [Stats, Strategy, an
 </div>
 
 <br>
-<center><img src="https://imgur.com/a/PUIZoYp.png" height="420"/></center>
+<center><img src="https://i.imgur.com/1YyingY.jpeg" height="420"/></center>
 <br>
 
 ## Data Analysis
