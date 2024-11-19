@@ -1,5 +1,26 @@
 # Portfolio
 ---
+## eSports
+
+### Dota 2 Tundra Esports
+
+
+<div style="text-align: justify">
+My current freelance activity is professional eSports analytics in Dota 2 for Tundra Esports - The International 2022 champions. I provide the team - players and a coach - with the most relevant data regarding the upcoming oponents as well as develop custom solutions for every possible request they might have. I rely heavliy on in-game data from the replay files as well as publicly available data sources - Spectral.gg, STRATZ, DotaBuff, OpenDota, and Dota2ProTracker. I also help the SMM team by providing instersting data findings to help grow the social media channels. I know how to use data to  to uncover hidden opportunities and transform them into successful outcomes, even in challenging or less-explored areas.
+
+During our time together we achieved:
+4th place at Esports World Cup, Riyadh
+3rd place at FISSURE Universe: Episode 3
+3rd place at The International 2024, Copenhagen
+3rd place at PGL Wallachia Season 2, Bucharest
+2nd place at BetBoom Dacha 2024, Belgrade
+
+You can also read the interview I gave in Copenhagen here - [Stats, Strategy, and Saksa: Interview with Tundra Esports Data Analyst](https://bo3.gg/dota2/articles/stats-strategy-and-saksa-a-conversation-with-tundras-data-analyst-degaz)
+</div>
+
+<br>
+<center><img src="https://imgur.com/a/PUIZoYp.png" height="420"/></center>
+<br>
 
 ## Data Analysis
 
